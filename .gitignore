@@ -16,14 +16,6 @@ wheels/
 # Local data and outputs
 data/
 submissions/
-catboost_info/
-
-# Generated and temporary notebooks/files
-01_contest.py
-2_ml_homework_stacking.ipynb
-*copy*.ipynb
-*UNTOUCHED*.ipynb
-*conflicted copy*
 
 # Local environment files
 .python-version
