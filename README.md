@@ -4,8 +4,8 @@
 
 Основные файлы:
 
-- `01_contest.ipynb` — полный пайплайн: EDA, feature engineering, обучение базовых моделей, мета-модель, диагностика ошибок и подготовка submission.
-- `02_stacking_and_uncertainty.ipynb` — связанное задание по базовому стекингу для регрессии и оценке неопределенности предсказаний через ансамбли моделей.
+- `01_contest.ipynb` – полный пайплайн: EDA, feature engineering, обучение базовых моделей, мета-модель, диагностика ошибок и подготовка submission.
+- `02_stacking_and_uncertainty.ipynb` – связанное задание по базовому стекингу для регрессии и оценке неопределенности предсказаний через ансамбли моделей.
 
 ## Подход
 
@@ -26,7 +26,7 @@
 
 Файл `sample_submition.csv` нужен только для формирования итогового submission.
 
-Метро-датасет используется для географических признаков. Его можно скачать с Kaggle:
+Метро-датасет используется для географических признаков в соревновании. Его можно скачать с Kaggle:
 
 - [NYS NYC Transit Subway Entrance And Exit Data](https://www.kaggle.com/datasets/new-york-state/nys-nyc-transit-subway-entrance-and-exit-data?select=nyc-transit-subway-entrance-and-exit-data.csv)
 
