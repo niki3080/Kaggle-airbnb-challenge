@@ -16,6 +16,7 @@ wheels/
 # Local data and outputs
 data/
 submissions/
+catboost_info/
 
 # Local environment files
 .python-version
